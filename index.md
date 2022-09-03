@@ -1,3 +1,9 @@
+# David's First CS 193 Homework
+
+## Favorite things about CS 193
+- Teaches useful tools and skills like bash commands and debugging
+- The TAs
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
